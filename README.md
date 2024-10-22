@@ -7,7 +7,7 @@ This project analyzes vehicle sales data using a PostgreSQL database and Power B
 - **Dataset**: [car_prices.csv](/car_prices.csv)
 - **Cleaned Dataset**: [car_prices_clean.csv](/car_prices_clean.csv)  
   Use the provided Python script (`data_cleaning.py`) to generate this file.
-- **SQL Dump**: [Sales_AnalysisDB_backup.sql](Sales_AnalysisDB_backup.sql)  
+- **SQL Dump**: [SalesAnalysisDB_backup.sql](Sales_AnalysisDB_backup.sql)  
   This file contains the schema and data. You can import it into PostgreSQL to set up your database.
 
 ## Setup Instructions
