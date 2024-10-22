@@ -25,7 +25,7 @@ Replace `your_username` with your PostgreSQL username and adjust the path to whe
 ### 3. Access the Cleaned Dataset
 - The cleaned dataset can be generated using the provided Python script:
   ```bash
-  python clean_data.py
+  python data_cleaning.py
 ### 4. SQL Queries
 - The SQL queries used in this project are not included at this time but will be provided in a future update. These queries can be run to further analyze the vehicle sales data once added.
 
